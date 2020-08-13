@@ -1,0 +1,25 @@
+{
+  "name": "ceyhun",
+  "version": "0.0.8",
+  "description": "Trying to figure it out",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceyhunmelek/ceyhun.git"
+  },
+  "keywords": [
+    "ceyhun",
+    "ceyhunmelek",
+    "ceyhunulasmelek"
+  ],
+  "author": "Ceyhun Melek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceyhunmelek/ceyhun/issues"
+  },
+  "homepage": "https://github.com/ceyhunmelek/ceyhun#readme",
+  "dependencies": {
+    "got": "^11.5.2",
+    "terminal-image": "^1.2.1"
+  }
+}
